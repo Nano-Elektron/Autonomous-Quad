@@ -9,5 +9,6 @@
   ```bash
   python3 bluetoothbluetooth_pwm_mimic.py
   ```
+* dont forget the skim this [docs](https://bluedot.readthedocs.io/en/latest/) site of bluedot
 
     
