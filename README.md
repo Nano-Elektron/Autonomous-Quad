@@ -7,7 +7,7 @@
 * connect the channels 1,2,3,4 in KK board to rpi's 11,12,15,16 gpio pins (board numbering)
 * run the script 
   ```bash
-  python3 bluetoothbluetooth_pwm_mimic.py
+  python3 bluetooth_pwm_mimic.py
   ```
 * dont forget the skim this [docs](https://bluedot.readthedocs.io/en/latest/) site of bluedot
 
